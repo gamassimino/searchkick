@@ -15,3 +15,4 @@ gem "redis"
 gem "connection_pool"
 gem "kaminari"
 gem "parallel_tests"
+gem 'elastic-transport'

@@ -29,6 +29,8 @@ require "searchkick/results"
 require "searchkick/version"
 require "searchkick/where"
 
+require 'elastic/transport'
+
 # integrations
 require "searchkick/railtie" if defined?(Rails)
 
